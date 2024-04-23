@@ -8,3 +8,6 @@ The file itself will not be altered.
 wrote this while i was stoned but...
 it is useful for console game dev, so
 i will be keeping it up here.
+might rewrite it in C at some point.
+it's a bit strange to need dotnet just
+to run a string manipulator.
